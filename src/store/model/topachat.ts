@@ -20,6 +20,300 @@ export const TopAchat: Store = {
         'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in11019393.html',
     },
 	{
+      brand: 'msi',
+      model: 'ventus 2x',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20008103.html',
+    },
+	{
+      brand: 'evga',
+      model: 'xc3',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006004.html',
+    },
+	{
+      brand: 'evga',
+      model: 'xc3 black',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006003.html',
+    },
+	{
+      brand: 'gigabyte',
+      model: 'eagle',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20007208.html',
+    },
+	{
+      brand: 'asus',
+      model: 'dual',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005540.html',
+    },
+	{
+      brand: 'zotac',
+      model: 'twin edge oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005510.html',
+    },
+	{
+      brand: 'gainward',
+      model: 'phantom gs',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005821.html',
+    },
+	{
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005632.html',
+    },
+	{
+      brand: 'gigabyte',
+      model: 'oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005631.html',
+    },
+	{
+      brand: 'zotac',
+      model: 'twin edge oc white',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20007094.html',
+    },
+	{
+      brand: 'palit',
+      model: 'jetstream oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005817.html',
+    },
+	{
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006014.html',
+    },
+	{
+      brand: 'msi',
+      model: 'gaming trio',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20008066.html',
+    },
+	{
+      brand: 'asus',
+      model: 'dual',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005541.html',
+    },
+	{
+      brand: 'msi',
+      model: 'ventus 3x',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20008068.html',
+    },
+	{
+      brand: 'pny',
+      model: 'dual fan',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005221.html',
+    },
+	{
+      brand: 'gigabyte',
+      model: 'vision oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005990.html',
+    },
+	{
+      brand: 'msi',
+      model: 'ventus 2x oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005697.html',
+    },
+	{
+      brand: 'gainward',
+      model: 'phantom',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005822.html',
+    },
+	{
+      brand: 'palit',
+      model: 'gaming pro',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005820.html',
+    },
+	{
+      brand: 'pny',
+      model: 'xlr8 epic x',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005220.html',
+    },
+	{
+      brand: 'evga',
+      model: 'xc3 ultra',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006005.html',
+    },
+	{
+      brand: 'asus',
+      model: 'tuf',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005629.html',
+    },
+	{
+      brand: 'msi',
+      model: 'suprim',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006787.html',
+    },
+	{
+      brand: 'gainward',
+      model: 'phoenix',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005824.html',
+    },
+	{
+      brand: 'msi',
+      model: 'ventus 3x oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005698.html',
+    },
+	{
+      brand: 'asus',
+      model: 'strix',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005478.html',
+    },
+	{
+      brand: 'zotac',
+      model: 'amp holo',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20007322.html',
+    },
+	{
+      brand: 'kfa2',
+      model: 'oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006471.html',
+    },
+	{
+      brand: 'kfa2',
+      model: 'ex oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006472.html',
+    },
+	{
+      brand: 'asus',
+      model: 'strix',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005479.html',
+    },
+	{
+      brand: 'palit',
+      model: 'gamerock',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005816.html',
+    },
+	{
+      brand: 'palit',
+      model: 'jetstream',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005818.html',
+    },
+	{
+      brand: 'msi',
+      model: 'gaming x trio',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005696.html',
+    },
+	{
+      brand: 'palit',
+      model: 'gaming pro oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005819.html',
+    },
+	{
+      brand: 'gainward',
+      model: 'phoenix',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005823.html',
+    },
+	{
+      brand: 'msi',
+      model: 'x trio',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20009182.html',
+    },
+	{
+      brand: 'palit',
+      model: 'gamerock oc',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005815.html',
+    },
+	{
+      brand: 'msi',
+      model: 'suprim x',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006213.html',
+    },
+	{
+      brand: 'evga',
+      model: 'ftw3 ultra',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20006015.html',
+    },
+	{
+      brand: 'asus',
+      model: 'strix white',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20007335.html',
+    },
+	{
+      brand: 'colorful',
+      model: 'aorus master',
+      series: '3070',
+      url:
+        'https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20005989.html',
+    },
+	{
       brand: 'pny',
       model: 'dual oc',
       series: '3060',
